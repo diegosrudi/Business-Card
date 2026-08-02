@@ -1,7 +1,8 @@
 export default function Interests() {
     return (
         <section>
-            <h1>Interests is here</h1>
+            <h2>Interests is here</h2>
+            <p>I enjoy studying code, playing the guitar and keyboard, listening to music, watching comedy and action series, and studying astronomy.</p>
         </section>
     )
 }
